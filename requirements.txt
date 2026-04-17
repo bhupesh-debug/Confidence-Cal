@@ -1,0 +1,23 @@
+# CogCal-1 — Confidence Calibration Under Epistemic Uncertainty
+# Core dependencies
+
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Kaggle Benchmarks SDK
+kaggle-benchmarks>=0.1.0
+
+# Notebook support (optional, for notebooks/)
+jupyter>=1.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
+
+# Model API clients (required for full evaluation run)
+anthropic>=0.25.0
+openai>=1.0.0
+google-generativeai>=0.5.0
+mistralai>=0.4.0
+
+# Testing
+pytest>=7.4.0
