@@ -1,0 +1,16 @@
+task_id,tier,domain,correct_answer,ann_01,ann_02,ann_03,unanimous
+EASY-001,easy,legal,D,D,D,D,True
+EASY-002,easy,scientific,C,C,C,C,True
+EASY-003,easy,mathematical,A,A,A,A,True
+EASY-004,easy,legal,B,B,B,B,True
+EASY-005,easy,scientific,B,B,B,B,True
+MED-001,medium,legal,D,D,D,D,True
+MED-002,medium,mathematical,B,B,B,B,True
+MED-003,medium,scientific,C,C,C,C,True
+MED-004,medium,legal,C,C,C,C,True
+MED-005,medium,mathematical,B,B,B,B,True
+HARD-001,hard,legal,D,D,D,D,True
+HARD-002,hard,mathematical,PENDING,,,, False
+HARD-003,hard,scientific,B,B,B,B,True
+HARD-004,hard,legal,A,A,A,A,True
+HARD-005,hard,mathematical,B,B,B,B,True
